@@ -93,7 +93,7 @@ In alignment with the FAA definition of Accident analyses will be done only on t
 
 
  
-# The Human cost fatalities and injuries through the years
+# The human cost: fatalities and injuries through the years
 
 Findings - Human Cost for Year
 In terms of assessing the human cost for each year, the number of fatalities peaked in 2010 followed by a decline as the number of uninjured individuals increased peaking in 2011. 
@@ -165,7 +165,8 @@ In the comprehensive analysis of aircraft purpose of flight, make, and model, Ce
 # Conclusion 
 
 1.	When evaluating the human cost over the years, fatalities reached their peak in 2010, followed by a decline as the number of uninjured individuals increased, reaching its peak in 2011. Throughout this period, there is an approximate ratio of 8.8 uninjured individuals for every fatality. This suggests a notable level of confidence in aviation safety.
-![png](output_54_0.png)
+![image](https://github.com/durrantX/phase1-project/assets/148919288/d65c3fdf-0fed-43a3-8ee3-ee68f6ee01fb)
+
 2.	Among the top ten countries worldwide in terms of uninjured individuals, the United States leads with the highest number, and Puerto Rico, a U.S. territory, is among the top five countries.
 ![png](output_60_0.png)![png](output_64_1.png)
 3.	In the category of aircraft Make, Boeing takes the lead with the highest number of uninjured individuals, followed by Cessna, Airbus, and Piper. This reflects the least human consequences.
