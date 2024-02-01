@@ -96,6 +96,7 @@ In alignment with the FAA definition of Accident analyses will be done only on t
 # The human cost: fatalities and injuries through the years
 
 Findings - Human Cost for Year
+
 In terms of assessing the human cost for each year, the number of fatalities peaked in 2010 followed by a decline as the number of uninjured individuals increased peaking in 2011. 
 Throughout the timeframe there is an approximate ratio of 8.8 uninjured to every fatality. This is indicative of a certain level of confidence regarding safety when the mode of transportation is airplane.
 
@@ -214,18 +215,18 @@ In the comprehensive analysis of aircraft purpose of flight, make, and model, Ce
 # Conclusion 
 
 1.	When evaluating the human cost over the years, fatalities reached their peak in 2010, followed by a decline as the number of uninjured individuals increased, reaching its peak in 2011. Throughout this period, there is an approximate ratio of 8.8 uninjured individuals for every fatality. This suggests a notable level of confidence in aviation safety.
-![image](https://github.com/durrantX/phase1-project/assets/148919288/d65c3fdf-0fed-43a3-8ee3-ee68f6ee01fb)
+
 
 2.	Among the top ten countries worldwide in terms of uninjured individuals, the United States leads with the highest number, and Puerto Rico, a U.S. territory, is among the top five countries.
-![png](output_60_0.png)![png](output_64_1.png)
+
 3.	In the category of aircraft Make, Boeing takes the lead with the highest number of uninjured individuals, followed by Cessna, Airbus, and Piper. This reflects the least human consequences.
-![png](output_99_0.png)
+
 4.	Among aircraft models, the 737 stands out with the highest number of individuals who did not sustain injuries.
-![png](output_90_0.png)
+
 5.	Within the aircraft engine type categories, Turbo Fan engines lead with the highest count of uninjured individuals, followed by Reciprocating and Turbo Jet engines.
-![png](output_112_0.png)
+
 6.	In a comprehensive analysis of aircraft make and model, Boeing secures the top five positions with the highest number of uninjured individuals, indicating a higher level of safety in this category, with the Boeing 737 ranking as number one for the most uninjured individuals.
-![png](output_121_0.png)
+
 7.	Excluding the 'Unknown' subset, the top five safest categories, based on the aggregate number of uninjured individuals, are 'Personal,' 'Business,' 'Instructional,' 'Aerial Application,' and 'Skydiving.' It's worth noting that there have been no recorded fatalities for the 'AirDrop' and 'PUBS' subsets.
 
 8.	In a thorough analysis of aircraft intended purpose of flight, make, and model, Cessna's various models show strong associations with specific flight purposes, especially in the 'Personal' and 'Instructional' subsets. Notably, the Cessna 172 ranks as one of the top ten safest airplanes.
