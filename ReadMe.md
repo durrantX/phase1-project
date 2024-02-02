@@ -240,7 +240,6 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 
 data
 
-
 Aviation Data Analysis.ipynb
 
 ReadMe.md
