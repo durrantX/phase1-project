@@ -93,16 +93,32 @@ In alignment with the FAA definition of Accident analyses will be done only on t
 
 
  
-# The Human cost fatalities and injuries through the years
+# The human cost: fatalities and injuries through the years
 
 Findings - Human Cost for Year
+
 In terms of assessing the human cost for each year, the number of fatalities peaked in 2010 followed by a decline as the number of uninjured individuals increased peaking in 2011. 
 Throughout the timeframe there is an approximate ratio of 8.8 uninjured to every fatality. This is indicative of a certain level of confidence regarding safety when the mode of transportation is airplane.
+
+![image](https://github.com/durrantX/phase1-project/assets/148919288/a233ce0e-5e5b-4b33-ae40-e2d01696bd73)
+
+
+
 
 
 
 # Groupby Country
 Grouping by country allows for examination of the geographical aspect and categorize accidents , fatalities and uninjured individuals
+
+![image](https://github.com/durrantX/phase1-project/assets/148919288/67a29d98-42a3-401c-a3f7-08e9115e6bbd)
+
+
+
+
+
+
+
+
 
  # Community Consequences 
 Considering the community consequences, the United States leads in terms of accidents, with Brazil trailing significantly behind. It is noteworthy that the United States also records the highest rates of fatalities, injuries, and non-injured individuals, which aligns with its larger number of accidents throughout the data period.
@@ -112,6 +128,17 @@ Intriguingly, among the top thirty countries, 100% of Lebanon's and 97% of Libya
 
  # Groupby Purpose of Flight
  Grouping by the flights by the intended  purpose enables analysis of the business segment and categorize accidents , fatalities and uninjured individuals
+
+
+![image](https://github.com/durrantX/phase1-project/assets/148919288/97157604-9f41-46ce-9f86-634fb494b0d1)
+
+
+
+
+
+
+
+
 
 
 # Personal and Social Consequences
@@ -129,6 +156,14 @@ Groupby aircraft engine type
 
 # Groupby aircraft make
 
+![image](https://github.com/durrantX/phase1-project/assets/148919288/b4d42d98-347d-40de-9247-f0b73ac887da)
+
+
+
+
+
+
+
 # Make
 The airplane Make with the highest accident rates are Cessna, Piper, Beech and Boeing. 
 Highest fatalities for Make are Cessna, Boeing, Piper and Airbus
@@ -137,6 +172,13 @@ The 'Make' with the most uninjured are Boeing Cessna, Airbus and McDonnell Dougl
 
 # Groupby Engine type
  Grouping the data by engine type enables examination of the connection between this aircraft attribute, fatalities and uninjured individuals. 
+
+![image](https://github.com/durrantX/phase1-project/assets/148919288/53c88089-14fc-4ea6-86ac-4c0897169f92)
+
+
+
+
+
 
 # Findings
 Within the aircraft engine type  categories, Reciprocating engine stands out with the highest number of accidents followed by Turbo prop, Turbo Fan, and Turbo Jet.
@@ -148,6 +190,14 @@ The Turbo Fan  leads with the highest count of uninjured individuals,followed by
 
 
 # Groupby Make and Model
+
+
+
+
+
+
+
+![image](https://github.com/durrantX/phase1-project/assets/148919288/71539573-0636-4af3-8761-0889cc0c40e1)
 
 
 # Findings
@@ -165,17 +215,18 @@ In the comprehensive analysis of aircraft purpose of flight, make, and model, Ce
 # Conclusion 
 
 1.	When evaluating the human cost over the years, fatalities reached their peak in 2010, followed by a decline as the number of uninjured individuals increased, reaching its peak in 2011. Throughout this period, there is an approximate ratio of 8.8 uninjured individuals for every fatality. This suggests a notable level of confidence in aviation safety.
-![png](output_54_0.png)
+
+
 2.	Among the top ten countries worldwide in terms of uninjured individuals, the United States leads with the highest number, and Puerto Rico, a U.S. territory, is among the top five countries.
-![png](output_60_0.png)![png](output_64_1.png)
+
 3.	In the category of aircraft Make, Boeing takes the lead with the highest number of uninjured individuals, followed by Cessna, Airbus, and Piper. This reflects the least human consequences.
-![png](output_99_0.png)
+
 4.	Among aircraft models, the 737 stands out with the highest number of individuals who did not sustain injuries.
-![png](output_90_0.png)
+
 5.	Within the aircraft engine type categories, Turbo Fan engines lead with the highest count of uninjured individuals, followed by Reciprocating and Turbo Jet engines.
-![png](output_112_0.png)
+
 6.	In a comprehensive analysis of aircraft make and model, Boeing secures the top five positions with the highest number of uninjured individuals, indicating a higher level of safety in this category, with the Boeing 737 ranking as number one for the most uninjured individuals.
-![png](output_121_0.png)
+
 7.	Excluding the 'Unknown' subset, the top five safest categories, based on the aggregate number of uninjured individuals, are 'Personal,' 'Business,' 'Instructional,' 'Aerial Application,' and 'Skydiving.' It's worth noting that there have been no recorded fatalities for the 'AirDrop' and 'PUBS' subsets.
 
 8.	In a thorough analysis of aircraft intended purpose of flight, make, and model, Cessna's various models show strong associations with specific flight purposes, especially in the 'Personal' and 'Instructional' subsets. Notably, the Cessna 172 ranks as one of the top ten safest airplanes.
@@ -185,4 +236,12 @@ For More Information
 See the full analysis in the Jupyter Notebook or review this presentation.
 
 
-Data structure 
+# Data structure 
+
+data
+
+Aviation Data Analysis.ipynb
+
+ReadMe.md
+
+presentation.pdf
