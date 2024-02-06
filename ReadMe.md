@@ -238,10 +238,11 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 
 # Data structure 
 
+
 data
-
+    Aviation_Data.csv
+    aviation_output.csv
+.gitignore
 Aviation Data Analysis.ipynb
-
 ReadMe.md
-
 presentation.pdf
